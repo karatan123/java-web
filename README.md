@@ -1,3 +1,6 @@
+//遍历jsp文档并报获文档中的全部标记和标记总数
+
+
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
 String path = request.getContextPath();
