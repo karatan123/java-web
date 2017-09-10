@@ -1,4 +1,4 @@
-#####bean.Email.java
+#### bean.Email.java
 ```
 package bean;
 
@@ -31,7 +31,7 @@ public class Email implements Serializable{
 
 
 
-####inex.jsp
+#### inex.jsp
 ```
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
@@ -82,7 +82,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 
 
-###result.jsp
+#### result.jsp
 ```
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
