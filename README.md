@@ -16,7 +16,7 @@
 ```
 
 
-el_session
+#### el_session
 ```
  <%
    	List<String> list=new ArrayList<String>();
@@ -33,7 +33,7 @@ el_session
     	${request1 }:${goodlist[request1] }<br>
     <%} %>
 ```
-######  el逻辑运算
+####  el逻辑运算
 **el进行逻辑运算时表达式值确定时停止执行，只执行一次逻辑运算**
 ```
 <%
